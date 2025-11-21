@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "homepage": "https://zw5.github.io/portafolio",
+  "homepage": "https://simonvelez.lat",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

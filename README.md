@@ -1,14 +1,28 @@
 # Portfolio
 
-Basic React portfolio built with Vite. Includes sections for About, Projects, Experience, and Contact with a responsive layout.
+A personal portfolio website built with React and Vite to showcase projects and skills.
 
 ## Assets
 
-- Place a portrait image at `public/profile.jpg` to display your photo in the hero section.
+All assets used in this project are located in the `public` folder.
 
 ## Available scripts
 
-- `npm install` to install dependencies
-- `npm run dev` to start the development server
-- `npm run build` to create a production build
-- `npm run preview` to preview the production build locally
+In the project directory, you can run:
+
+### `npm install`
+
+Installs all the dependencies.
+
+### `npm run dev`
+
+Runs the app in development mode.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+
+The page will reload if you make edits. You will also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `dist` folder. It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified, and the filenames include hashs.
