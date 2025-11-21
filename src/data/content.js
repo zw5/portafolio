@@ -53,7 +53,7 @@ export const content = {
     contact: {
       sectionLabel: 'Contact',
       title: 'Get in touch',
-      email: 'simon.velez@example.com',
+      email: 'simon@simonvelez.lat',
       github: 'https://github.com/zw5',
       githubLabel: 'Follow me on GitHub',
     },
@@ -115,7 +115,7 @@ export const content = {
     contact: {
       sectionLabel: 'Contacto',
       title: 'Ponte en contacto',
-      email: 'simon.velez@example.com',
+      email: 'simon@simonvelez.lat',
       github: 'https://github.com/zw5',
       githubLabel: 'Sigueme en GitHub',
     },

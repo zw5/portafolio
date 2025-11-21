@@ -193,6 +193,8 @@ ul {
   border-radius: 20px;
   box-shadow: var(--shadow-lg);
   border: 1px solid var(--glass-border);
+  filter: brightness(0.15) contrast(1.2);
+  opacity: 0.8;
 }
 
 .btn {
