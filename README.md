@@ -26,3 +26,7 @@ The page will reload if you make edits. You will also see any lint errors in the
 Builds the app for production to the `dist` folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified, and the filenames include hashs.
+
+### `npm run deploy`
+
+This script builds the project and deploys it to GitHub Pages. Make sure to set the `homepage` field in `package.json` to your repository URL before running this command.

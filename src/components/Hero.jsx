@@ -15,7 +15,7 @@ const Hero = ({ hero }) => {
                     </div>
                 </div>
                 <figure className="hero-portrait">
-                    <img src="/profile.jpg" alt={hero.portraitAlt} />
+                    <img src="/profile.webp" alt={hero.portraitAlt} />
                 </figure>
             </div>
         </header>
