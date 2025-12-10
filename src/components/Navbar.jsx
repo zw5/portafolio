@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar = ({ navLinks, locale, setLocale, toggleLabel }) => {
     return (
         <nav className="nav">
-            <span className="logo">ZW</span>
+            <span className="logo">Simon Velez</span>
             <ul className="nav-list">
                 {navLinks.map((link) => (
                     <li key={link.href}>

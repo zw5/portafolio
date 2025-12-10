@@ -1,4 +1,4 @@
-export const skills = ['JavaScript', 'React', 'TypeScript', 'CSS', 'Python', 'Node.js', 'Rust'];
+export const skills = ['JavaScript', 'React', 'TypeScript', 'CSS', 'Python', 'Node.js', 'Rust', 'Django', 'Flask', 'Sanic'];
 
 export const content = {
   en: {
